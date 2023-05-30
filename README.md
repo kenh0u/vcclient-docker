@@ -47,11 +47,10 @@ Webブラウザで [https://localhost:18888](https://localhost:18888) (ポート
 
 ## Tested Environment
 
-|Distribution|Ubuntu 20.04.3           |
-|:----------:|:-----------------------:|
-|Kernel      |5.4.0-81-generic         |
-|CUDA        |11.4                     |
-|Docker      |20.10.7                  |
-|CPU         |Intel Xeon E5-2698 v4    |
-|RAM         |512GB                    |
-|GPU         |8x NVIDIA Tesla V100 32GB|
+ - Distribution: Ubuntu 20.04.3  
+   Kernel: 5.4.0-81-generic  
+   CUDA: 11.4  
+   Docker: 20.10.7  
+   CPU: Intel Xeon E5-2698 v4  
+   RAM: 512GB  
+   GPU: 8x NVIDIA Tesla V100 32GB
